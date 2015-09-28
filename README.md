@@ -2,9 +2,9 @@
 
 Smallchat is a small application built as part of an interview process where I was asked to build something cool in less than 100 lines of code.
 
-The resulting application is a chat app, that *prompts users with a rotating topic* to discuss. Sort of like guided (but not enforced) small talk.
+The resulting application is a chat app, that **prompts users with a rotating topic** to discuss. Sort of like guided (but not enforced) small talk.
 
-Lines of code including `src/`, `index.html`, and `index.js` is exactly 100 lines.  I didn't include any libraries or `package.json` in this count.
+Lines of code including `src/`, `index.html`, and `index.js` is exactly 100 lines.  I didn't include any libraries, this readme, or the `package.json` in this count.
 
 ## Running the application
 
