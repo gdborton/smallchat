@@ -6,4 +6,4 @@ var express = require('express');
 var app = express();
 setInterval(function() { ref.child('topic').set(topics[currentTopic++ %topics.length]); }, 60000);
 app.use(express.static('.'));
-app.listen(3000);
+app.listen(process.env.PORT || 3000);
